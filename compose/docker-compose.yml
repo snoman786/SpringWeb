@@ -1,0 +1,5 @@
+services:
+  springweb:
+    image: snoman1/springweb:v1
+    ports:
+      - "8081:8080"
